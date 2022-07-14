@@ -4,7 +4,7 @@ I am a Ph.D. candidate at [SMILE Lab](https://web.northeastern.edu/smilelab/) of
 
 I am interested in a variety of topics in computer vision and machine learning. My research works orbit [efficient deep learning](https://github.com/MingSun-Tse/EfficientDNNs) (a.k.a. model compression), spanning from the most common image classifcation task ([GReg](https://github.com/MingSun-Tse/Regularization-Pruning), [PaI](https://github.com/MingSun-Tse/Awesome-Pruning-at-Initialization), [TPP](https://github.com/MingSun-Tse/TPP)) to neural style transfer ([Collaborative-Distillation](https://github.com/MingSun-Tse/Collaborative-Distillation)), single image super-resolution ([ASSL](https://github.com/MingSun-Tse/ASSL), [SRP](https://github.com/MingSun-Tse/SRP)), and 3D novel view synthesis ([R2L](https://snap-research.github.io/R2L/)).
 
-I am doing my best to make my research [reproducible](https://github.com/MingSun-Tse/smilelogging). 
+I do my best towards easily [reproducible](https://github.com/MingSun-Tse/smilelogging) research. 
 
 ✨ NEWS: Two papers newly accepted by ECCV'22. Check them out! [[R2L](https://snap-research.github.io/R2L/)] [[TPP](https://github.com/MingSun-Tse/TPP)] 
 
