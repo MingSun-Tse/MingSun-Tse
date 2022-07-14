@@ -8,6 +8,7 @@ I do my best towards easily [reproducible](https://github.com/MingSun-Tse/smilel
 
 ✨ NEWS: Two papers newly accepted by ECCV'22. Check them out! [[R2L](https://snap-research.github.io/R2L/)] [[TPP](https://github.com/MingSun-Tse/TPP)] 
 
+![Github stats](https://github-readme-stats.vercel.app/api?username=mingsun-tse&theme=default&show_icons=true&count_private=true&layout=compact)
 
 
 <!--
