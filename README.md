@@ -6,7 +6,7 @@ I am interested in a variety of topics in computer vision and machine learning. 
 
 I do my best towards [easily reproducible](https://github.com/MingSun-Tse/smilelogging) research. 
 
-✨ NEWS: Check our Efficient NeRF project via distillation to appear in ECCV 2022: [[R2L](https://snap-research.github.io/R2L/)]
+✨ NEWS: Check out our Efficient NeRF project via distillation to appear in ECCV 2022: [[R2L](https://snap-research.github.io/R2L/)]
 
 ![Github stats](https://github-readme-stats.vercel.app/api?username=mingsun-tse&theme=default&show_icons=true&count_private=true&layout=compact)
 
