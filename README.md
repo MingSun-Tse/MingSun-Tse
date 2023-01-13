@@ -6,7 +6,7 @@ I am interested in a variety of topics in computer vision and machine learning. 
 
 I do my best towards [easily reproducible](https://github.com/MingSun-Tse/smilelogging) research. 
 
-✨ NEWS: Check out preprint work that deciphers the confusion benchmark situation in neural network (filter) pruning: [Confusing-Pruning](https://github.com/mingsun-tse/why-the-state-of-pruning-so-confusing)
+🔥 NEWS: Check out preprint work that deciphers the confusion benchmark situation in neural network (filter) pruning: [Confusing-Pruning](https://github.com/mingsun-tse/why-the-state-of-pruning-so-confusing) <br/>
 ✨ NEWS: Check out our Efficient NeRF project via distillation, in ECCV 2022: [[R2L](https://snap-research.github.io/R2L/)] <br/>
 ✨ NEWS: Check out our investigation of what makes a "good" data augmentation in knolwedge distillation, in NeurIPS 2022: [[Webpage](https://huanwang.tech/Good-DA-in-KD)] [[Code](https://github.com/MingSun-Tse/Good-DA-in-KD)]
 
