@@ -6,7 +6,8 @@ I am interested in a variety of topics in computer vision and machine learning. 
 
 I do my best towards [easily reproducible](https://github.com/MingSun-Tse/smilelogging) research. 
 
-🔥 NEWS: **[CVPR'23]** Check out our new blazing fast🚀 neural rendering model on mobile devices: MobileR2L, can render **1008x756** images at **56fps** on **iPhone13** [[Arxiv](https://arxiv.org/abs/2212.08057)] [[Code](https://github.com/snap-research/MobileR2L)] <br/>
+🔥 NEWS: **[Preprint]** We are excited to present [SnapFusion](https://snap-research.github.io/SnapFusion/), a super-efficient mobile diffusion model that can do text-to-image generation in **less than 2s**🚀 on mobile devices! [[Arxiv](https://arxiv.org/abs/2306.00980)] [[Webpage](https://snap-research.github.io/SnapFusion/)] <br/>
+🔥 NEWS: **[CVPR'23]** Check out our new blazing fast🚀 neural rendering model on mobile devices: MobileR2L (the lightweight version of [R2L](https://snap-research.github.io/R2L/)), can render **1008x756** images at **56fps** on **iPhone13** [[Arxiv](https://arxiv.org/abs/2212.08057)] [[Code](https://github.com/snap-research/MobileR2L)] <br/>
 🔥 NEWS: **[ICLR'23]** Check out the very first trainability-preserving filter pruning method: TPP [[Arxiv](https://arxiv.org/abs/2207.12534)] [[Code](https://github.com/MingSun-Tse/TPP)] <br/>
 🔥 NEWS: Check out our preprint work that deciphers the *so confusing* benchmark situation in neural network (filter) pruning: [[Arxiv](https://arxiv.org/abs/2301.05219)] [[Code](https://github.com/mingsun-tse/why-the-state-of-pruning-so-confusing)] <br/>
 ✨ NEWS: Check out our investigation of what makes a "good" data augmentation in knolwedge distillation, in NeurIPS 2022: [[Webpage](https://huanwang.tech/Good-DA-in-KD)] [[Code](https://github.com/MingSun-Tse/Good-DA-in-KD)] <br/>
