@@ -1,8 +1,6 @@
 ### Hi there 👋
 
-I am an Assistant Professor at Westlake U. I did my PhD at [SMILE Lab](https://web.northeastern.edu/smilelab/) of Northeastern University (Boston, USA). Before that, I spent seven wonderful years at Zhejiang University (Hangzhou, China) to get my B.E. and M.S. degrees.
-
-I am interested in various topics in computer vision and machine learning. My research works orbit [efficient deep learning](https://github.com/MingSun-Tse/EfficientDNNs) (a.k.a. model compression), spanning from the most common image classification task ([GReg](https://github.com/MingSun-Tse/Regularization-Pruning), [Awesome-PaI](https://github.com/MingSun-Tse/Awesome-Pruning-at-Initialization), [TPP](https://github.com/MingSun-Tse/TPP)) to neural style transfer ([Collaborative-Distillation](https://github.com/MingSun-Tse/Collaborative-Distillation)), single image super-resolution ([ASSL](https://github.com/MingSun-Tse/ASSL), [SRP](https://github.com/MingSun-Tse/SRP)), and 3D novel view synthesis ([R2L](https://snap-research.github.io/R2L/), [MobileR2L](https://snap-research.github.io/MobileR2L/)).
+I am an Assistant Professor at Westlake Univerity (Hangzhou, China). I did my PhD at [SMILE Lab](https://web.northeastern.edu/smilelab/) of Northeastern University (Boston, USA). Before that, I spent seven wonderful years at Zhejiang University (Hangzhou, China) to get my B.E. and M.S. degrees. I work on Efficient AI, Machine Learning, Computer Vision, and MLSys. See [my webpage](https://huanwang.tech/) for more information.
 
 
 ![Github stats](https://github-readme-stats.vercel.app/api?username=mingsun-tse&theme=default&show_icons=true&count_private=true&layout=compact)
