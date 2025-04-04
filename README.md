@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-I am an Assistant Professor at Westlake Univerity (Hangzhou, China). I did my PhD at [SMILE Lab](https://web.northeastern.edu/smilelab/) of Northeastern University (Boston, USA). Before that, I spent seven wonderful years at Zhejiang University (Hangzhou, China) to get my B.E. and M.S. degrees. I work on Efficient AI, Machine Learning, Computer Vision, and MLSys. See [my webpage](https://huanwang.tech/) for more information.
+I am an Assistant Professor at Westlake University (Hangzhou, China). I did my PhD at [SMILE Lab](https://web.northeastern.edu/smilelab/) of Northeastern University (Boston, USA). Before that, I spent seven wonderful years at Zhejiang University (Hangzhou, China) to get my B.E. and M.S. degrees. I work on Efficient AI, Machine Learning, Computer Vision, and MLSys. See [my webpage](https://huanwang.tech/) for more information.
 
 
 ![Github stats](https://github-readme-stats.vercel.app/api?username=mingsun-tse&theme=default&show_icons=true&count_private=true&layout=compact)
